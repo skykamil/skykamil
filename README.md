@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Kamil 👋
 
-<!--
-**skykamil/skykamil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Patent Paralegal building Python and AI automation for IP and legal-tech workflows.
 
-Here are some ideas to get you started:
+I build practical tools around problems I understand from patent work, while developing my skills in software engineering, RAG systems and AI agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+
+### 🔎 [Office Action Extractor](https://github.com/skykamil/office-action-extractor)
+FastAPI application for extracting structured data from patent office-action PDFs.
+
+Python · FastAPI · SQLite · PDF parsing · pytest · GitHub Actions
+
+### 🧠 [RAG Experiment](https://github.com/skykamil/rag-experiment)
+Experimental RAG pipeline comparing retrieval strategies, chunking approaches, reranking and agentic retrieval.
+
+Python · OpenAI API · embeddings · evaluation · agentic retrieval
+
+### 🤖 [Patent Agent](https://github.com/skykamil/patent-agent)
+AI agent integrating with EPO OPS to retrieve patent data and perform multi-step patent-related tasks.
+
+Python · OpenAI function calling · EPO OPS · OAuth2 · SQLite
+
+## Current focus
+
+- Python software engineering
+- LLM application development
+- RAG and retrieval systems
+- AI agents
+- APIs and backend development
+
+## Background
+
+Patent Paralegal with professional experience in intellectual property.
+
+Currently studying IT and building toward a career at the intersection of software, AI and IP.
