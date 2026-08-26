@@ -2,9 +2,14 @@
 
 Patent Paralegal building Python and AI automation for IP and legal-tech workflows.
 
-I build practical tools around problems I understand from patent work, while developing my skills in software engineering, RAG systems and AI agents.
+I build practical tools around problems I understand from patent work, while developing my skills in software engineering, backend systems and AI applications.
 
 ## Featured projects
+
+### 🤖 [Patent Agent](https://github.com/skykamil/patent-agent)
+Patent research agent built on EPO OPS and raw OpenAI function calling, with multi-step tool use, pagination, SQLite logging and deterministic tool-call/final-response evals.
+
+Python · OpenAI Responses API · EPO OPS · OAuth2 · SQLite
 
 ### 🔎 [Office Action Extractor](https://github.com/skykamil/office-action-extractor)
 FastAPI application for extracting structured data from patent office-action PDFs.
@@ -16,18 +21,12 @@ Experimental RAG pipeline comparing retrieval strategies, chunking approaches, r
 
 Python · OpenAI API · embeddings · evaluation · agentic retrieval
 
-### 🤖 [Patent Agent](https://github.com/skykamil/patent-agent)
-AI agent integrating with EPO OPS to retrieve patent data and perform multi-step patent-related tasks.
-
-Python · OpenAI function calling · EPO OPS · OAuth2 · SQLite
-
 ## Current focus
 
 - Python software engineering
 - LLM application development
-- RAG and retrieval systems
+- Backend APIs and productionization
 - AI agents
-- APIs and backend development
 
 ## Background
 
