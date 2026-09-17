@@ -7,7 +7,8 @@ I build practical tools around problems I understand from patent work, while dev
 ## Featured projects
 
 ### 🤖 [Patent Agent](https://github.com/skykamil/patent-agent)
-Patent research agent built on EPO OPS and raw OpenAI tool calling, with FastAPI, persistent SQLite conversations, Docker deployment on AWS EC2, public HTTPS, multi-step tool use and deterministic evals.
+Patent research web application built on EPO OPS and raw OpenAI tool calling. Supports multi-step research and persistent conversations through a browser interface, with a FastAPI backend deployed on AWS EC2 using Docker and HTTPS. Released as **v2.0.0**, with **24 automated tests** and an **11-case evaluation suite** covering tool calls and final responses.
+
 
 Python · FastAPI · OpenAI Responses API · EPO OPS · SQLite · Docker · AWS EC2 · Caddy
 
