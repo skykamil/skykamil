@@ -34,10 +34,11 @@ Python · OpenAI API · embeddings · evaluation · agentic retrieval
 
 ## Current focus
 
-* Python backend development and relational databases
-* Reliable data processing and automated testing
+- Python backend development and relational databases
+- Reliable data processing and automated testing
+- AI workflows with LangGraph and human review
 
-Next planned project: **Patent Monitoring Service**, starting with saved searches, manual refresh and duplicate-free storage of publication results.
+Next planned project: **Patent Mailroom Assistant**, supporting patent email classification, data extraction, EPO bibliographic checks, and task preparation for human approval. Built with synthetic correspondence and demonstration rules.
 
 ## Background
 
