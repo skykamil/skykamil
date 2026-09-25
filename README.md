@@ -16,6 +16,14 @@ Python · FastAPI · OpenAI Responses API · EPO OPS · SQLite · Docker · AWS 
 
 🌐 [Live demo](https://patentagent.mooo.com)
 
+### 📬 [Patent Mailroom Assistant](https://github.com/skykamil/patent-mailroom-assistant)
+
+**In progress.** Educational backend for patent correspondence processing. Currently supports case creation with input validation, jurisdiction-scoped uniqueness, database conflict handling and automated tests.
+
+Planned features include email classification, data extraction, EPO bibliographic checks and task preparation for human approval, using synthetic correspondence.
+
+Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · pytest
+
 ### 🔎 [Office Action Extractor](https://github.com/skykamil/office-action-extractor)
 
 FastAPI application for extracting structured data from patent office-action PDFs, with SQLite storage, a simple web interface and synthetic sample documents.
@@ -37,8 +45,6 @@ Python · OpenAI API · embeddings · evaluation · agentic retrieval
 - Python backend development and relational databases
 - Reliable data processing and automated testing
 - AI workflows with LangGraph and human review
-
-Next planned project: **Patent Mailroom Assistant**, supporting patent email classification, data extraction, EPO bibliographic checks, and task preparation for human approval. Built with synthetic correspondence and demonstration rules.
 
 ## Background
 
