@@ -6,7 +6,7 @@ I build practical tools around problems I understand from patent work, while dev
 
 ## Featured projects
 
-### 🤖 [Patent Agent](https://github.com/skykamil/patent-agent)
+### [Patent Agent](https://github.com/skykamil/patent-agent)
 
 Patent research web application built on EPO OPS and raw OpenAI tool calling. Supports multi-step research and persistent conversations through a browser interface, with a FastAPI backend deployed on AWS EC2 using Docker and HTTPS.
 
@@ -16,7 +16,7 @@ Python · FastAPI · OpenAI Responses API · EPO OPS · SQLite · Docker · AWS 
 
 🌐 [Live demo](https://patentagent.mooo.com)
 
-### 📬 [Patent Mailroom Assistant](https://github.com/skykamil/patent-mailroom-assistant)
+### [Patent Mailroom Assistant](https://github.com/skykamil/patent-mailroom-assistant)
 
 **In progress.** Educational backend for patent correspondence processing. Currently supports case creation with input validation, jurisdiction-scoped uniqueness, database conflict handling and automated tests.
 
@@ -24,13 +24,13 @@ Planned features include email classification, data extraction, EPO bibliographi
 
 Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · pytest
 
-### 🔎 [Office Action Extractor](https://github.com/skykamil/office-action-extractor)
+### [Office Action Extractor](https://github.com/skykamil/office-action-extractor)
 
 FastAPI application for extracting structured data from patent office-action PDFs, with SQLite storage, a simple web interface and synthetic sample documents.
 
 Python · FastAPI · SQLite · PDF parsing · pytest · GitHub Actions
 
-### 🧠 [RAG Experiment](https://github.com/skykamil/rag-experiment)
+### [RAG Experiment](https://github.com/skykamil/rag-experiment)
 
 Completed educational experiment comparing chunking, retrieval, reranking and agentic retrieval. Documents results and limitations from a small multi-document evaluation.
 
